@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
-    color: #333;
+    color: #0000007d;
 }
 a {
     text-decoration: none;
@@ -16,6 +16,10 @@ a:hover {
 
 h1, h2 {
     margin-bottom: 1rem;
+}
+
+h2 {
+    color: #0000009e;
 }
 
 /* Hero Section */
@@ -36,7 +40,7 @@ h1, h2 {
 .hero .button {
     display: inline-block;
     background: white;
-    color: #f2b06a;
+    color: #fe66c4e2;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     text-decoration: none;
@@ -45,7 +49,7 @@ h1, h2 {
 }
 .hero .button:hover {
     background-color: #f4f4f9;
-    color: #e3d3cd;
+    color: #f2b06a;
 }
 
 /* About Section */
